@@ -1,7 +1,6 @@
-
+<img align="center" alt="code" height="200" width="500" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e47ej5xp3fpdw9rlry8hbrv2lxm5y9edi3vymhmkr5k&ep=v1_gifs_search&rid=200w.webp&ct=g">
 <h1 align="center">Hi 👋🏻, I'm 😎SHAAN😎</h1>
 <h3 align="center">A Enthusiastic Full Stack JAVA Developer From India</h3>
-<img align="center" alt="typ" width="500" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 <img align="right" alt="walk" width="200" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaan786303&label=Profile%20views&color=0e75b6&style=flat" alt="shaan786303" /> </p>
 
@@ -35,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaan786303&show_icons=true&locale=en" alt="shaan786303" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaan786303&" alt="shaan786303" /></p>
