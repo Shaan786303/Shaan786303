@@ -1,4 +1,4 @@
-<img align="center" alt="code" height="200" width="500" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e47ej5xp3fpdw9rlry8hbrv2lxm5y9edi3vymhmkr5k&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="center" alt="code" height="400" width="1000" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e47ej5xp3fpdw9rlry8hbrv2lxm5y9edi3vymhmkr5k&ep=v1_gifs_search&rid=200w.webp&ct=g">
 <h1 align="center">Hi 👋🏻, I'm 😎SHAAN😎</h1>
 <h3 align="center">A Enthusiastic Full Stack JAVA Developer From India</h3>
 <img align="right" alt="walk" width="200" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
