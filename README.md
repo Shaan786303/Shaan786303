@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/mdshaan786303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdshaan786303" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaan-7b590a216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaan-7b590a216" height="30" width="40" /></a>
-<a href="https://fb.com/techy shaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techy shaan" height="30" width="40" /></a>
+<a href="https://fb.com/100070049195331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techy shaan" height="30" width="40" /></a>
 <a href="https://instagram.com/shaan786303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaan786303" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techy shaan vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techy shaan vlogs" height="30" width="40" /></a>
 </p>
